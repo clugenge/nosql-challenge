@@ -1,1 +1,2 @@
 # nosql-challenge
+The purpose of the codes is to set up a no sql database through mongospy and than update it to peform analytical tasks to help filter the resturaunts in the area. The project was performed on a juptyer notebook. I had issues in importing the json file but were resolved by makig sure the jupyter notebooks and the json file are located in my root directory for me to able to import the json file and thus run the notebooks smoothly.
